@@ -9,7 +9,7 @@ package GenericUtilities;
 
 public interface ConstantsUtility {
 	
-	String propertyFilePath=".src\\test\\resources\\CommonData.properties";
-	String excelFilePath=".src\\test\\resources\\TestData.xlsx";
+	String propertyFilePath=".\\src\\test\\resources\\CommonData.properties";
+	String excelFilePath=".\\src\\test\\resources\\TestData.xlsx";
 
 }
